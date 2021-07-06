@@ -5,6 +5,7 @@ section{
 }
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
@@ -86,8 +87,11 @@ h2{
 }
 .black-color{
     background-color: black;
+
+}
+#footer-container{
+    height: 200px;
     width: 100%;
     text-align: center;
-    margin-top: 50px;
-
+    margin-top: 100px;
 }
