@@ -1,0 +1,61 @@
+section{
+    display: flex;
+    margin-top: 60px;
+    
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold 700;
+    margin: 0;
+    color: rgb(70, 69, 69);
+}
+p{
+    color: black;
+    font-size: 20px;
+    margin-bottom: 60px;
+}
+#gray-color{
+    color: gray;
+}
+#orange-color{
+    color: rgb(252, 107, 11);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(0.25turn, orange, orangered, tomato);
+    color: white;
+    font-size: 20px;
+    padding: 20px 40px;
+    border-radius: 40px;
+}
+.text{
+    width: 50%;
+    margin-top: 10%;
+   padding: 50px;
+}
+.about-me{
+
+    background-image: url(image/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 633px;
+
+}
+.fix-img{
+    padding-left: 150px;
+    padding-top: 80px;
+}
+h2{
+    color: gray;
+    font-size: 40px;
+    margin: 0;
+}
+.text-center{
+    padding-top: 150px;
+    padding-left: 200px;
+    padding-right: 150px;
+}
