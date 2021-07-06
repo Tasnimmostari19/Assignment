@@ -59,3 +59,35 @@ h2{
     padding-left: 200px;
     padding-right: 150px;
 }
+.h2-recipe{
+    text-align: center;
+    padding-top: 50px;
+}
+.half-width{
+    width: 25%;
+    padding: 30px;
+    box-shadow: 10px 10px 20px 2px gray;
+    border-radius: 20px;
+    margin: 60px;
+}
+.half-width img{
+    width: 100%;
+}
+.box-text{
+    padding-right: 5px;
+}
+.subscribe{
+    background-image: url(image/Project\ Cover4.png);
+    width: 100%;
+    display: flex;
+}
+.white-color{
+    color: white;
+}
+.black-color{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+
+}
